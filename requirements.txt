@@ -1,0 +1,16 @@
+altair
+numpy
+pandas
+pydeck
+streamlit
+opencv-python-headless
+streamlit-drawable-canvas==0.8.0
+svgpathtools
+svgwrite
+matplotlib
+scikit-learn
+scikit-image
+google-cloud-firestore
+firebase_admin
+torch==2.4
+tensorflow
