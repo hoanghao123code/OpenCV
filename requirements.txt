@@ -14,3 +14,4 @@ google-cloud-firestore
 firebase_admin
 torch==2.4
 tensorflow
+pytesseract
