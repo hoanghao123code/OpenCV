@@ -19,7 +19,7 @@ st.title("🎈Ứng dụng đọc thông tin từ thẻ sinh viên")
 
 
 # # Cấu hình đường dẫn Tesseract OCR nếu cần
-pytesseract.pytesseract.tesseract_cmd =  r'./services/Tesseract-OCR/tesseract'
+# pytesseract.pytesseract.tesseract_cmd =  r'./services/Tesseract-OCR/tesseract'
 
 def preprocess_image(image):
     gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
